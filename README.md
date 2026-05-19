@@ -32,7 +32,7 @@ I'm Neha Prasad, a software engineer shipping AI agents and contributing to the 
 ## 🍀 Open Source Contributions
 A curated list of my most impactful merged pull requests across AI tooling, frontend systems, and developer platforms.
 ### ⏳ Featured Pull Requests
-- [**Tracer-Cloud/opensre** — add /watch,/unwatch and WATCHDOG tasks](https://github.com/Tracer-Cloud/opensre/pull/1969)
+
 - [**LlamaIndex** — Multi-turn image generation support](https://github.com/run-llama/LlamaIndexTS/pull/2106)
 - [**Mastra** — Anthropic tool calling support](https://github.com/mastra-ai/mastra/pull/12400)
 - [**Mastra** — PgVector + Postgres integration](https://github.com/mastra-ai/mastra/pull/8103)
