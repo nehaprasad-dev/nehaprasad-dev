@@ -30,6 +30,11 @@ I'm Neha Prasad, a software engineer shipping AI agents and contributing to the 
 - [DigiNav - AI](https://github.com/nehaaprasaad/diginav-ai) : autonomous compliance agent for Indian startups, powered by India's Digital Public Infrastructure. You approve, it executes.
 - [CodeTrust](https://codtrust-ut1s.vercel.app/) : An AI-powered tool that analyzes code or pull requests and gives a clear verdict - **Safe, Risky, or Block** helping developers catch issues and ship with confidence.
 ## 🍀 Open Source Contributions
+
+## Open Source Contributions
+
+- [**Active Contributor at OpenHands**](https://github.com/OpenHands) — One of the leading open-source AI software engineering agents.  
+  Contributed multiple features, bug fixes, and improvements to the core codebase.  
 A curated list of my most impactful merged pull requests across AI tooling, frontend systems, and developer platforms.
 ### ⏳ Featured Pull Requests
 
