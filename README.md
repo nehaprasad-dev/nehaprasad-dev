@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/neha-prasad-92499821b/">LinkedIn</a> •
   <a href="https://x.com/nehaaaa_6">X</a> •
   <a href="https://peerlist.io/nehaaa6">peerlist</a> •
-  
   <a href="mailto:nehaprasad27118@gmail.com">Email</a>
 </p>
 
