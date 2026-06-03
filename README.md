@@ -1,5 +1,5 @@
 ## IMP Previously
-<a href="https://github.com/nehaaprasad">old-github-very-important🌟🌟</a> (lost access due to 2FA issue)
+<a href="https://github.com/nehaaprasad">old-github-very-important🌟🌟</a>
 
 <h1 align="center">Hi, I'm Neha Prasad 👋🍀</h1>
 <h3 align="center">Software Engineer • Frontend Developer • Open Source Contributor</h3>
