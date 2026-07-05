@@ -2,7 +2,7 @@
 <a href="https://github.com/nehaaprasad">old-github-very-important🌟🌟</a>
 
 <h1 align="center">Hi, I'm Neha Prasad 👋🍀</h1>
-<h3 align="center">Software Engineer • Frontend Developer • Open Source Contributor</h3>
+<h3 align="center">Fullstack Engineer • Frontend Developer • Open Source Contributor</h3>
 <p align="center">
   <a href="https://neha-portfoliooo.vercel.app/">Live Portfolio</a> •
   <a href="https://www.linkedin.com/in/neha-prasad-92499821b/">LinkedIn</a> •
@@ -13,7 +13,7 @@
 
 ---
 ## About Me
-I'm Neha Prasad, a software engineer shipping AI agents and contributing to the infrastructure that powers them.
+I'm Neha Prasad, a fullstack engineer shipping AI agents and contributing to the infrastructure that powers them.
 
 ⚡ Building DigiNav AI → an autonomous regulatory compliance agent for Indian businesses
 - 150+ PRs merged in AI frameworks (Mastra, LlamaIndexTS, LiteLLM, PostHog) 
