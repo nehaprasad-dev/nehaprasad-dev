@@ -43,20 +43,8 @@ A curated list of my most impactful merged pull requests across AI tooling, fron
 - [**Mastra** — PgVector + Postgres integration](https://github.com/mastra-ai/mastra/pull/8103)
 - [**AnythingLLM** — Exa search provider integration](https://github.com/Mintplex-Labs/anything-llm/pull/4258)
 - [**AnythingLLM** — Base64 document attachment support](https://github.com/Mintplex-Labs/anything-llm/pull/4672)
-- [**agno** — AWS Bedrock API key support for Claude](https://github.com/agno-agi/agno/pull/5497)
 - [**LiteLLM** — Streaming, provider, and prompt-handling improvements](https://github.com/BerriAI/litellm/pull/19265)
-- [**Haystack** — Async embedding retriever support](https://github.com/deepset-ai/haystack-core-integrations/pull/3016)
 - [**PostHog** — Group property filtering for survey responses](https://github.com/PostHog/posthog/pull/34946)
-- [**Cal.com** — Dynamic adapter import fix](https://github.com/calcom/cal.com/pull/23784)
-- [**Sentry** — `isolateTrace` option for performance monitoring](https://github.com/getsentry/sentry-javascript/pull/18079)
-- [**Prefect** — API performance optimization](https://github.com/PrefectHQ/prefect/pull/19548)
-- [**Next.js** — `RedirectType` handling fix](https://github.com/vercel/next.js/pull/88653)
-- [**LanceDB** — Nullable vector field handling](https://github.com/lancedb/lancedb/pull/2657)
-- [**LanceDB** — Nullable vector field handling](https://github.com/lancedb/lancedb/pull/2658)
-- [**tldraw** — Custom snap points for canvas interactions](https://github.com/tldraw/tldraw/pull/6987)
-- [**OpenHands** — Fix selected repo disappearing in open repository dropdown](https://github.com/OpenHands/OpenHands/pull/12702)
-- [**shadcn/ui** — Add `@ui-layouts` registry to directory](https://github.com/shadcn-ui/ui/pull/8878)
-
 
 ### 📂 All Merged Pull Requests
 View the full list here: [All Merged PRs](https://github.com/nehaaprasad/nehaaprasad/blob/main/ALL_PRS.md)
